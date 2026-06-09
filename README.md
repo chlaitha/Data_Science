@@ -67,7 +67,7 @@ A complete **machine learning pipeline** that predicts house prices using Linear
 ---
 
 ### 4. 🚗 Classification — SUV Purchase Prediction
-**File:** [Logistic_Regression_SUV_Predictions.ipynb](https://github.com/chlaitha/Machine-Learning/blob/main/Logistic%20Regression%20SUV%20Predictions.ipynb)
+**File:** [Logistic Regression SUV Predictions.ipynb](https://github.com/chlaitha/Machine-Learning/blob/main/Logistic%20Regression%20SUV%20Predictions.ipynb)
 
 A complete **classification pipeline** that predicts whether a user will purchase an SUV based on age and salary, using Logistic Regression and achieving **89% accuracy** on test data.
 
