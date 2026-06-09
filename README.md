@@ -63,6 +63,22 @@ A complete **machine learning pipeline** that predicts house prices using Linear
 
 > 💡 **Key result:** The model explains 92% of variance in house prices — a strong fit demonstrating the power of Linear Regression on structured data.
 
+---
+
+### 4. 🚗 Classification — SUV Purchase Prediction
+**File:** [Logistic_Regression_SUV_Predictions.ipynb](https://github.com/chlaitha/Machine-Learning/blob/main/Logistic_Regression_SUV_Predictions.ipynb)
+
+A complete **classification pipeline** that predicts whether a user will purchase an SUV based on age and salary, using Logistic Regression and achieving **89% accuracy** on test data.
+
+| What you'll learn | Tools used |
+|---|---|
+| Feature selection by index | `pandas` / `numpy` |
+| Train/test splitting | `sklearn.model_selection` |
+| Feature scaling | `sklearn.preprocessing` |
+| Building & evaluating a classifier | `sklearn.linear_model` |
+
+> 💡 **Key result:** The model correctly classifies 89% of unseen users as buyers or non-buyers — demonstrating Logistic Regression as a practical tool for binary classification problems.
+
 ## 🙌 Acknowledgements
 
 Built with Python and the open-source data science ecosystem:
