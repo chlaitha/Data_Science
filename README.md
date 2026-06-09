@@ -8,10 +8,10 @@ This repository contains two beginner-friendly Python data science projects, eac
 
 ```
 └── README.md                                    # ← You are here
-├── Statistics.ipynb                             # Notebook: descriptive statistics & visualisation
+└── Statistics.ipynb                             # Notebook: descriptive statistics & visualisation
 └── Regression Analysis.ipynb                    # Notebook: head and brain prediction with ML
-├── Predictive Analysis.ipynb                    # Notebook: house price prediction with ML
-├── Logistic_Regression_SUV_Predictions.ipynb    # Notebook: SUV purchase classification with Logistic Regression
+└── Predictive Analysis.ipynb                    # Notebook: house price prediction with ML
+├── Logistic Regression SUV Predictions.ipynb    # Notebook: SUV purchase classification with Logistic Regression
 
 ```
 ---
