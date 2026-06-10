@@ -1,6 +1,6 @@
 # 🐍 Python Data Science Projects
 
-This repository contains two beginner-friendly Python data science projects, each with a Jupyter Notebook and a dedicated README. Together they cover the full journey from **descriptive statistics** to **predictive machine learning**.
+This repository contains beginner-friendly Python data science projects, each with a Jupyter Notebook and a dedicated README. Together they cover the full journey from **descriptive statistics** to **predictive machine learning**.
 
 ---
 
