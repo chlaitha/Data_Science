@@ -11,7 +11,8 @@ This repository contains two beginner-friendly Python data science projects, eac
 └── Statistics.ipynb                             # Notebook: descriptive statistics & visualisation
 └── Regression Analysis.ipynb                    # Notebook: head and brain prediction with ML
 └── Predictive Analysis.ipynb                    # Notebook: house price prediction with ML
-├── Logistic Regression SUV Predictions.ipynb    # Notebook: SUV purchase classification with Logistic Regression
+└── Logistic Regression SUV Predictions.ipynb    # Notebook: SUV purchase classification with Logistic Regression
+├── Titanic_Data_Analysis.ipynb                  # Notebook: Titanic survival classification with Logistic Regression
 
 ```
 ---
@@ -79,6 +80,23 @@ A complete **classification pipeline** that predicts whether a user will purchas
 | Building & evaluating a classifier | `sklearn.linear_model` |
 
 > 💡 **Key result:** The model correctly classifies 89% of unseen users as buyers or non-buyers — demonstrating Logistic Regression as a practical tool for binary classification problems.
+
+---
+
+### 5. 🚢 Classification — Titanic Survival Prediction
+**File:** [Titanic_Data_Analysis.ipynb](https://github.com/chlaitha/Machine-Learning/blob/main/Titanic_Data_Analysis.ipynb)
+
+A complete **data analysis and classification pipeline** that explores the Titanic dataset and predicts passenger survival based on features like age, sex, and class, using Logistic Regression and achieving **79% accuracy** on test data.
+
+| What you'll learn | Tools used |
+|---|---|
+| Exploratory data analysis (EDA) | `pandas` / `numpy` |
+| Visualising survival patterns | `seaborn` countplot |
+| Data cleaning & feature engineering | `pandas` |
+| Building & evaluating a classifier | `sklearn.linear_model` |
+| Confusion matrix & classification report | `sklearn.metrics` |
+
+> 💡 **Key result:** The model achieves 79% accuracy in predicting survival — uncovering how factors like passenger class, sex, and age influenced the odds of surviving the Titanic disaster.
 
 ## 🙌 Acknowledgements
 
