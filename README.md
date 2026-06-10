@@ -84,7 +84,7 @@ A complete **classification pipeline** that predicts whether a user will purchas
 ---
 
 ### 5. 🚢 Classification — Titanic Survival Prediction
-**File:** [Titanic_Data_Analysis.ipynb](https://github.com/chlaitha/Machine-Learning/blob/main/Titanic_Data_Analysis.ipynb)
+**File:** [Titanic Data Analysis.ipynb](https://github.com/chlaitha/Machine-Learning/blob/main/Titanic Data Analysis.ipynb)
 
 A complete **data analysis and classification pipeline** that explores the Titanic dataset and predicts passenger survival based on features like age, sex, and class, using Logistic Regression and achieving **79% accuracy** on test data.
 
