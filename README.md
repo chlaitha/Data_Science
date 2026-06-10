@@ -36,7 +36,7 @@ An introduction to **descriptive statistics** using a custom dataset and the cla
 ---
 
 ### 2. 🧠 Linear Regression — Brain Weight Prediction
-**File:** [Linear_Regression.ipynb](https://github.com/chlaitha/Machine-Learning/blob/main/Linear%20Regression.ipynb)
+**File:** [Linear Regression.ipynb](https://github.com/chlaitha/Machine-Learning/blob/main/Linear%20Regression.ipynb)
 
 A hands-on implementation of **Linear Regression from scratch**, then validated using Scikit-learn — predicting brain weight from head size measurements.
 
