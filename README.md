@@ -12,7 +12,7 @@ This repository contains beginner-friendly Python data science projects, each wi
 └── Regression Analysis.ipynb                    # Notebook: head and brain prediction with ML
 └── Predictive Analysis.ipynb                    # Notebook: house price prediction with ML
 └── Logistic Regression SUV Predictions.ipynb    # Notebook: SUV purchase classification with Logistic Regression
-├── Titanic_Data_Analysis.ipynb                  # Notebook: Titanic survival classification with Logistic Regression
+├── Titanic Data Analysis.ipynb                  # Notebook: Titanic survival classification with Logistic Regression
 
 ```
 ---
