@@ -12,7 +12,8 @@ This repository contains beginner-friendly Python data science projects, each wi
 └── Regression Analysis.ipynb                    # Notebook: head and brain prediction with ML
 └── Predictive Analysis.ipynb                    # Notebook: house price prediction with ML
 └── Logistic Regression SUV Predictions.ipynb    # Notebook: SUV purchase classification with Logistic Regression
-├── Titanic Data Analysis.ipynb                  # Notebook: Titanic survival classification with Logistic Regression
+└── Titanic Data Analysis.ipynb                  # Notebook: Titanic survival classification with Logistic Regression
+├── Random_Forest_Classification_Penguins.ipynb  # Notebook: penguin species classification with Random Forest
 
 ```
 ---
@@ -97,6 +98,24 @@ A complete **data analysis and classification pipeline** that explores the Titan
 | Confusion matrix & classification report | `sklearn.metrics` |
 
 > 💡 **Key result:** The model achieves 79% accuracy in predicting survival — uncovering how factors like passenger class, sex, and age influenced the odds of surviving the Titanic disaster.
+
+---
+
+### 6. 🐧 Classification — Penguin Species Prediction
+**File:** [Random Forest Classification_Penguins.ipynb](https://github.com/chlaitha/Machine-Learning/blob/main/Random Forest Classification Penguins.ipynb)
+
+A complete **multi-class classification pipeline** that predicts penguin species (Adelie, Chinstrap, Gentoo) from physical measurements using Random Forest, achieving **98% accuracy** on test data.
+
+| What you'll learn | Tools used |
+|---|---|
+| Data cleaning & null value handling | `pandas` |
+| One-hot encoding of categorical features | `pandas` `get_dummies` |
+| Train/test splitting | `sklearn.model_selection` |
+| Building a Random Forest classifier | `sklearn.ensemble` |
+| Tuning number of trees (`n_estimators`) | `RandomForestClassifier` |
+
+> 💡 **Key result:** With just 7 decision trees and Gini impurity as the criterion, the model reaches 98% accuracy — demonstrating how ensemble methods outperform single classifiers on structured biological data.
+
 
 ## 🙌 Acknowledgements
 
