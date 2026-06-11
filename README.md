@@ -102,7 +102,7 @@ A complete **data analysis and classification pipeline** that explores the Titan
 ---
 
 ### 6. 🐧 Classification — Penguin Species Prediction
-**File:** [Random Forest Classification_Penguins.ipynb](https://github.com/chlaitha/Machine-Learning/blob/main/Random Forest Classification Penguins.ipynb)
+**File:** [Random Forest Classification_Penguins.ipynb](https://github.com/chlaitha/Data_Science/blob/main/Random%20Forest%20Classification%20Penguins.ipynb)
 
 A complete **multi-class classification pipeline** that predicts penguin species (Adelie, Chinstrap, Gentoo) from physical measurements using Random Forest, achieving **98% accuracy** on test data.
 
