@@ -20,7 +20,7 @@ This repository contains beginner-friendly Python data science projects, each wi
 ## 📂 Projects at a Glance
 
 ### 1. 📊 Statistics Using Python
-**File:** [Statistics.ipynb](https://github.com/chlaitha/Machine-Learning/blob/main/Statistics.ipynb)
+**File:** [Statistics.ipynb](https://github.com/chlaitha/Data_Science/blob/main/Statistics.ipynb)
 
 An introduction to **descriptive statistics** using a custom dataset and the classic Iris dataset.
 
@@ -36,7 +36,7 @@ An introduction to **descriptive statistics** using a custom dataset and the cla
 ---
 
 ### 2. 🧠 Linear Regression — Brain Weight Prediction
-**File:** [Linear Regression.ipynb](https://github.com/chlaitha/Machine-Learning/blob/main/Linear%20Regression.ipynb)
+**File:** [Linear Regression.ipynb](https://github.com/chlaitha/Data_Science/blob/main/Linear%20Regression.ipynb)
 
 A hands-on implementation of **Linear Regression from scratch**, then validated using Scikit-learn — predicting brain weight from head size measurements.
 
@@ -52,7 +52,7 @@ A hands-on implementation of **Linear Regression from scratch**, then validated 
 ---
 
 ### 3. 🏠 Predictive Analysis — House Price Prediction
-**File:** [Predictive Analysis.ipynb](https://github.com/chlaitha/Machine-Learning/blob/main/Predictive%20Analysis.ipynb)
+**File:** [Predictive Analysis.ipynb](https://github.com/chlaitha/Data_Science/blob/main/Predictive%20Analysis.ipynb)
 
 A complete **machine learning pipeline** that predicts house prices using Linear Regression, achieving a **92% R² score** on test data.
 
@@ -68,7 +68,7 @@ A complete **machine learning pipeline** that predicts house prices using Linear
 ---
 
 ### 4. 🚗 Classification — SUV Purchase Prediction
-**File:** [Logistic Regression SUV Predictions.ipynb](https://github.com/chlaitha/Machine-Learning/blob/main/Logistic%20Regression%20SUV%20Predictions.ipynb)
+**File:** [Logistic Regression SUV Predictions.ipynb](https://github.com/chlaitha/Data_Science/blob/main/Logistic%20Regression%20SUV%20Predictions.ipynb)
 
 A complete **classification pipeline** that predicts whether a user will purchase an SUV based on age and salary, using Logistic Regression and achieving **89% accuracy** on test data.
 
@@ -84,7 +84,7 @@ A complete **classification pipeline** that predicts whether a user will purchas
 ---
 
 ### 5. 🚢 Classification — Titanic Survival Prediction
-**File:** [Titanic Data Analysis.ipynb](Titanic Data Analysis.ipynb)
+**File:** [Titanic Data Analysis.ipynb](https://github.com/chlaitha/Data_Science/blob/main/Titanic%20Data%20Analysis.ipynb)
 
 A complete **data analysis and classification pipeline** that explores the Titanic dataset and predicts passenger survival based on features like age, sex, and class, using Logistic Regression and achieving **79% accuracy** on test data.
 
